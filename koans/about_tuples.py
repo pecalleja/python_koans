@@ -63,7 +63,7 @@ class AboutTuples(Koan):
         ), (
             "Stargate B", (41, 10, 43.92, 'N'), (1, 49, 34.29, 'W')
         )]
-        
+
         locations.append((
             "Cthulu", (26, 40, 1, 'N'), (70, 45, 7, 'W')
         ))
